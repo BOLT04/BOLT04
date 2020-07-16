@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm David
 
+- 📑 Check out [my blog](https://dev.to/bolt04) on dev.to
 - 🔭 I’m currently working on a [discord bot](https://github.com/EddieJaoudeCommunity/EddieBot)
 - 🌱 I’m currently learning Microservices + Azure cloud services
 - 👯 I’m looking to collaborate on Security Open Source projects
