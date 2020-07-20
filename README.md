@@ -8,3 +8,12 @@
 - 💬 Ask me about: MERN, REST
 - 📫 How to reach me: davidpereira2938@gmail.com
 - ⚡ Fun fact: I'd love to go to Tomorrowland 😁
+
+<p>
+  <a href="https://twitter.com/BOLT2938">
+    <img src="https://img.shields.io/twitter/follow/BOLT2938?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-david-pereira-13ba5315a/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
