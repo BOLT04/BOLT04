@@ -17,3 +17,5 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
+
+![BOLT04's github stats](https://github-readme-stats.vercel.app/api?username=BOLT04&count_private=true&show_icons=true&theme=tokyonight)
