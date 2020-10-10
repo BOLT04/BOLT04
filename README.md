@@ -36,4 +36,8 @@
 
 ![BOLT04's github stats](https://github-readme-stats.vercel.app/api?username=BOLT04&count_private=true&show_icons=true&theme=tokyonight)
 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=bolt04&theme=nord" width="100%">
+</a>  
+
 ![BOLT04's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BOLT04&layout=compact)
