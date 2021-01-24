@@ -18,6 +18,10 @@
   </a>
 </p>
 
+### 🔥 My contribution streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BOLT04&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 ### 📑 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [My Hacktoberfest progress](https://dev.to/bolt04/my-hacktoberfest-progress-2b97)
