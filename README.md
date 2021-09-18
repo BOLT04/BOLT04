@@ -24,11 +24,11 @@
 
 ### 📑 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [My Hacktoberfest progress](https://dev.to/bolt04/my-hacktoberfest-progress-2b97)
-- [I'm participating in Hacktoberfest](https://dev.to/bolt04/i-m-participating-in-hacktoberfest-802)
-- [A small tip for debugging a Node.js app](https://dev.to/bolt04/a-small-tip-for-debugging-a-node-js-app-3jm2)
-- [What is production-ready code?](https://dev.to/bolt04/what-is-production-ready-code-3dip)
-- [The reason to keep learning 📙📖](https://dev.to/bolt04/the-reason-to-keep-learning-1laf)
+- [Getting Started with CloudEvents and AsyncAPI](https://dev.to/bolt04/getting-started-with-cloudevents-and-asyncapi-8db)
+- [Case Study: Azure Service Bus and Event-Driven Architectures](https://dev.to/bolt04/case-study-azure-service-bus-and-event-driven-architectures-4lh0)
+- [Notes on feedback and self-reflection](https://dev.to/bolt04/notes-on-feedback-and-self-reflection-33i4)
+- [Communication Tips I've learned](https://dev.to/bolt04/communication-tips-i-ve-learned-apc)
+- [Learning: Microservices](https://dev.to/bolt04/learning-microservices-34k8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🛠 Languages and Tools:
