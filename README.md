@@ -31,6 +31,8 @@
 - [Learning: Microservices](https://dev.to/bolt04/learning-microservices-34k8)
 <!-- BLOG-POST-LIST:END -->
 
+<a href="https://app.daily.dev/BOLT"><img src="https://api.daily.dev/devcards/ac64d1fd0d6641ba804f4d97face11b2.png?r=z4z" width="400" alt="David's Dev Card"/></a>
+
 ### 🛠 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
