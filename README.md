@@ -27,7 +27,7 @@
 - [Getting Started with CloudEvents and AsyncAPI](https://dev.to/bolt04/getting-started-with-cloudevents-and-asyncapi-8db)
 - [Case Study: Azure Service Bus and Event-Driven Architectures](https://dev.to/bolt04/case-study-azure-service-bus-and-event-driven-architectures-4lh0)
 - [Notes on feedback and self-reflection](https://dev.to/bolt04/notes-on-feedback-and-self-reflection-33i4)
-- [Communication Tips I've learned](https://dev.to/bolt04/communication-tips-i-ve-learned-apc)
+- [Communication Tips I&#39;ve learned](https://dev.to/bolt04/communication-tips-i-ve-learned-apc)
 - [Learning: Microservices](https://dev.to/bolt04/learning-microservices-34k8)
 <!-- BLOG-POST-LIST:END -->
 
