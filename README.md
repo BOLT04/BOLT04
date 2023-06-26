@@ -24,11 +24,11 @@
 
 ### 📑 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Taking a look at what influenced me as I grow](https://dev.to/bolt04/taking-a-look-at-what-influenced-me-as-i-grow-1jhd)
 - [How to use the SEO meta tag rules module for Page Designer in SFCC](https://dev.to/bolt04/how-to-use-the-seo-meta-tag-rules-module-for-page-designer-in-sfcc-20i8)
 - [Reactathon 2022 - A Short Summary](https://dev.to/bolt04/reactathon-2022-a-short-summary-140b)
 - [Getting Started with CloudEvents and AsyncAPI](https://dev.to/bolt04/getting-started-with-cloudevents-and-asyncapi-8db)
 - [Case Study: Azure Service Bus and Event-Driven Architectures](https://dev.to/bolt04/case-study-azure-service-bus-and-event-driven-architectures-4lh0)
-- [Notes on feedback and self-reflection](https://dev.to/bolt04/notes-on-feedback-and-self-reflection-33i4)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://app.daily.dev/BOLT"><img src="https://api.daily.dev/devcards/ac64d1fd0d6641ba804f4d97face11b2.png?r=z4z" width="400" alt="David's Dev Card"/></a>
