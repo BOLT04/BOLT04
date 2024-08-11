@@ -1,11 +1,12 @@
 ### Hi there 👋, I'm David
 
 - 📑 Check out [my blog](https://dev.to/bolt04) on dev.to
-- 🔭 I’m currently working on a [discord bot](https://github.com/EddieJaoudeCommunity/EddieBot)
+- 📢 Check out [my talks](https://sessionize.com/david-pereira/) on sessionize
+- 🔭 I’m currently working with cloud-native tech
 - 🌱 I’m currently learning Microservices + Azure cloud services
 - 👯 I’m looking to collaborate on Security Open Source projects
 - 🤔 I’m looking for help with Docker & DevOps
-- 💬 Ask me about: MERN, REST
+- 💬 Ask me about: MERN, REST, AsyncAPI
 - 📫 How to reach me: davidpereira2938@gmail.com
 - ⚡ Fun fact: I'd love to go to Tomorrowland 😁
 
@@ -32,6 +33,12 @@
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://app.daily.dev/BOLT"><img src="https://api.daily.dev/devcards/ac64d1fd0d6641ba804f4d97face11b2.png?r=z4z" width="400" alt="David's Dev Card"/></a>
+
+
+### 📢 Latest Talks:
+- [Global Azure Portugal 2024 - Building Modern Apps with Cloud-Native magic](https://www.globalazure.pt/#speakers)
+- [AZUGPT - Empowering teams with Backstage](https://www.meetup.com/azure-user-group-portugal/events/302275613/)
+
 
 ### 🛠 Languages and Tools:
 
