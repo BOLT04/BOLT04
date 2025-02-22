@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Microservices + Azure cloud services
 - 👯 I’m looking to collaborate on Security Open Source projects
 - 🤔 I’m looking for help with Docker & DevOps
-- 💬 Ask me about: MERN, REST, AsyncAPI
+- 💬 Ask me about: .NET, Azure, REST, AsyncAPI
 - 📫 How to reach me: davidpereira2938@gmail.com
 - ⚡ Fun fact: I'd love to go to Tomorrowland 😁
 
@@ -18,10 +18,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-
-### 🔥 My contribution streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BOLT04&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ### 📑 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
@@ -38,7 +34,12 @@
 ### 📢 Latest Talks:
 - [Global Azure Portugal 2024 - Building Modern Apps with Cloud-Native magic](https://www.globalazure.pt/#speakers)
 - [AZUGPT - Empowering teams with Backstage](https://www.meetup.com/azure-user-group-portugal/events/302275613/)
+- [JUG - Building modern cloud-native apps with Dapr](https://www.meetup.com/lisbon-jug/events/303274002/?eventOrigin=group_events_list)
 
+
+### 🔥 My contribution streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BOLT04&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ### 🛠 Languages and Tools:
 
