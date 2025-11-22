@@ -21,11 +21,11 @@
 
 ### 📑 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Universe 2025 Recap](https://dev.to/bolt04/github-universe-2025-recap-9gl)
 - [AI can be a great augmentation tool, for code-review or AI-assisted coding, but all engineers need to have strong critical thinking skills, in my opinion. In this post, I share how I&#39;m using it along with my own opinions so far.](https://dev.to/bolt04/ai-can-be-a-great-augmentation-tool-for-code-review-or-ai-assisted-coding-but-all-engineers-need-22lj)
 - [Becoming augmented by AI](https://dev.to/bolt04/becoming-augmented-by-ai-3f1)
 - [Learning: Observability](https://dev.to/bolt04/learning-observability-3i37)
 - [Taking a look at what influenced me as I grow](https://dev.to/bolt04/taking-a-look-at-what-influenced-me-as-i-grow-1jhd)
-- [How to use the SEO meta tag rules module for Page Designer in SFCC](https://dev.to/bolt04/how-to-use-the-seo-meta-tag-rules-module-for-page-designer-in-sfcc-20i8)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://app.daily.dev/BOLT"><img src="https://api.daily.dev/devcards/ac64d1fd0d6641ba804f4d97face11b2.png?r=z4z" width="400" alt="David's Dev Card"/></a>
