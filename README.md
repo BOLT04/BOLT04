@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm David
 
 - 📑 Check out [my blog](https://dev.to/bolt04) on dev.to
-- 📢 Check out [my talks](https://sessionize.com/david-pereira/) on sessionize
+- 📢 Check out [my talks](https://sessionize.com/david-pereira/) on sessionize and my [YT channel](https://www.youtube.com/@davidpereira7938)
 - 🔭 I’m currently working with cloud-native tech
 - 🌱 I’m currently learning Microservices + Azure cloud services
 - 👯 I’m looking to collaborate on Security Open Source projects
@@ -14,7 +14,7 @@
   <a href="https://twitter.com/BOLT2938">
     <img src="https://img.shields.io/twitter/follow/BOLT2938?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-david-pereira-13ba5315a/">
+  <a href="https://www.linkedin.com/in/jose-david-pereira/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
@@ -32,6 +32,7 @@
 
 
 ### 📢 Latest Talks:
+- [GenAI Lisbon - Practical Workflows for AI Code Review](https://www.meetup.com/lisbon-genai-community/events/315381061/)
 - [Global Azure Portugal 2024 - Building Modern Apps with Cloud-Native magic](https://www.globalazure.pt/#speakers)
 - [AZUGPT - Empowering teams with Backstage](https://www.meetup.com/azure-user-group-portugal/events/302275613/)
 - [JUG - Building modern cloud-native apps with Dapr](https://www.meetup.com/lisbon-jug/events/303274002/?eventOrigin=group_events_list)
